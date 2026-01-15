@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#1B3B72"
+                android:centerColor="#2B4F94"
+                android:endColor="#4169E1"
+                android:angle="270"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:src="@drawable/winter_pattern"
+            android:tileMode="disabled"
+            android:gravity="fill"
+            android:dither="true"/>
+    </item>
+</layer-list> 

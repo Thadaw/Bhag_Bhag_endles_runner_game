@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:centerColor="#1A2A3F"
+                android:endColor="#2B4366"
+                android:startColor="#0B1729" />
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:src="@drawable/night_pattern"
+            android:tileMode="disabled"
+            android:gravity="fill"
+            android:dither="true"/>
+    </item>
+</layer-list> 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821907190802",
+    "firebase_url": "https://bhagbhag2025-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bhagbhag2025",
+    "storage_bucket": "bhagbhag2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821907190802:android:d881d559b6090fbdf354cb",
+        "android_client_info": {
+          "package_name": "com.example.bhagbhag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821907190802-l5m7rsp8vff3586ah19v6sfkf1q0sdd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhagbhag",
+            "certificate_hash": "9cca4529296c511e74eb11ff33c15947ee98f6e3"
+          }
+        },
+        {
+          "client_id": "821907190802-ihl570g5hsuh9tor4mt0p702a0r56pap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqssBZZuJMN-PTUzzYa4wtEA0_2AOmOPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821907190802-ihl570g5hsuh9tor4mt0p702a0r56pap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
